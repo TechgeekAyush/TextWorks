@@ -1,6 +1,6 @@
 # TextWorks
 
-Welcome to TextWorks, your go-to text manipulation web app! Designed to streamline your text editing tasks, TextWorks offers a range of features to make managing text simple and efficient. Whether you're drafting a document, editing content, or just need a quick text tweak, TextWorks has you covered:
+Welcome to TextWorks, your go-to text utility web app! Designed to streamline your text editing tasks, TextWorks offers a range of features to make managing text simple and efficient. Whether you're drafting a document, editing content, or just need a quick text tweak, TextWorks has you covered:
 
 - **Convert to Uppercase:** Instantly transform your text to uppercase, perfect for headings or emphasis.
 - **Convert to Lowercase:** Easily change your text to lowercase, ideal for standardizing content.
